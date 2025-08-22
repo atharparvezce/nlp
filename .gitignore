@@ -12,3 +12,6 @@ __pycache__/
 # Ignore model outputs / logs
 finetunedModel/
 log/
+
+# Ignoring Desktop Service Store 
+.DS_Store
