@@ -1,0 +1,14 @@
+# Ignore Jupyter auto-saves
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments/keys
+.env
+.venv/
+
+# Ignore model outputs / logs
+finetunedModel/
+log/
