@@ -15,3 +15,6 @@ log/
 
 # Ignoring Desktop Service Store 
 .DS_Store
+
+# Ignoring DataSets
+./Code/DataSet
